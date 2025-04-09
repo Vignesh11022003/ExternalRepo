@@ -1,3 +1,1 @@
-Hi
-hi1
-hi2
+# InternalRepo
